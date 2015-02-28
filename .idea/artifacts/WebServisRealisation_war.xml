@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebServisRealisation:war">
+    <output-path>$PROJECT_DIR$/WebServisRealisation/target</output-path>
+    <root id="archive" name="WebServise-0.1.1.war">
+      <element id="artifact" artifact-name="WebServisRealisation:war exploded" />
+    </root>
+  </artifact>
+</component>

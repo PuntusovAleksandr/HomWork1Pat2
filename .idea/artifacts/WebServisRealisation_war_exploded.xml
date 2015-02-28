@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebServisRealisation:war exploded">
+    <output-path>$PROJECT_DIR$/WebServisRealisation/target/WebServise-0.1.1</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebServisRealisation" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="WebServise-0.1.1.jar">
+            <element id="module-output" name="WebServisRealisation" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/WebServisRealisation/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="WebServisRealisation/web/Web" />
+    </root>
+  </artifact>
+</component>
