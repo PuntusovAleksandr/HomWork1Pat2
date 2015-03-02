@@ -6,9 +6,22 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>WebServise</artifactId>
-    <groupId>AleksandrP</groupId>
-    <version>0.1.1</version>
+    <groupId>com.alesandrP</groupId>
+    <version>0.1</version>
     <name>Web Service</name>
+
+    <parent>
+        <groupId>com.alesandrP</groupId>
+        <artifactId>AleksandrPrimary</artifactId>
+        <version>0.1</version>
+    </parent>
+    <dependencies>
+        <dependency>
+            <artifactId>AppInterface</artifactId>
+            <groupId>com.alesandrP</groupId>
+            <version>0.1</version>
+        </dependency>
+    </dependencies>
 
 
 
