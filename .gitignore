@@ -1,6 +1,5 @@
 .idea
 *.iml
-!*.jar
 */target/
 */*.iml
 /*.iml
