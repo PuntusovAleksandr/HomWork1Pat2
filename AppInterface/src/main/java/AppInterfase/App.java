@@ -1,9 +1,5 @@
 package AppInterfase;
 
-import InterfaseRealisation.Performance;
-import InterfaseRealisation.SchoolClass;
-import InterfaseRealisation.Student;
-
 import java.util.List;
 
 /**

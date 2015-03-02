@@ -6,16 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>WebServise</artifactId>
-    <groupId>Aleksandr</groupId>
+    <groupId>AleksandrP</groupId>
     <version>0.1.1</version>
     <name>Web Service</name>
 
 
-    <parent>
-        <artifactId>AleksandrP</artifactId>
-        <groupId>Aleksandr</groupId>
-        <version>0.2.1</version>
-    </parent>
 
 
 </project>

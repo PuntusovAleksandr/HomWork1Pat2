@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppInterface/AppInterface.iml" filepath="$PROJECT_DIR$/AppInterface/AppInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomWork1Pat2.iml" filepath="$PROJECT_DIR$/HomWork1Pat2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServiceTwo/WebServiceTwo.iml" filepath="$PROJECT_DIR$/WebServiceTwo/WebServiceTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebServisRealisation/WebServisRealisation.iml" filepath="$PROJECT_DIR$/WebServisRealisation/WebServisRealisation.iml" />
     </modules>
   </component>

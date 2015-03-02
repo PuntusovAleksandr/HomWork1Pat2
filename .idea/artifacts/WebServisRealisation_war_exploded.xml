@@ -10,6 +10,9 @@
           <element id="archive" name="WebServise-0.1.1.jar">
             <element id="module-output" name="WebServisRealisation" />
           </element>
+          <element id="archive" name="AppInterface-0.1.2.jar">
+            <element id="module-output" name="AppInterface" />
+          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">

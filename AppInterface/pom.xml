@@ -5,24 +5,14 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>App</artifactId>
-    <groupId>Aleksandr</groupId>
-    <version>0.1.1</version>
-    <name>Api</name>
+    <artifactId>AppInterface</artifactId>
+    <groupId>AleksandrP</groupId>
+    <version>0.1.2</version>
+    <name>ApiInterface</name>
 
-    <parent>
-        <artifactId>AleksandrP</artifactId>
-        <groupId>Aleksandr</groupId>
-        <version>0.2.1</version>
-    </parent>
 
-    <dependencies>
-        <dependency>
-            <groupId>Aleksandr</groupId>
-            <artifactId>WebServise</artifactId>
-            <version>0.1.1</version>
-        </dependency>
-    </dependencies>
+
+
 
 
 

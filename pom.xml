@@ -6,13 +6,14 @@
 
     <groupId>Aleksandr</groupId>
     <artifactId>AleksandrP</artifactId>
-    <version>0.2.1</version>
+    <version>0.2.2</version>
     <packaging>pom</packaging>
     <name>Parent Web Service</name>
 
     <modules>
         <module>AppInterface</module>
         <module>WebServisRealisation</module>
+        <module>WebServiceTwo</module>
     </modules>
 
 </project>

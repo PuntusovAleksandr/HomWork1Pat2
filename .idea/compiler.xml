@@ -24,6 +24,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="AppInterface" />
+        <module name="WebServiceTwo" />
         <module name="WebServisRealisation" />
       </profile>
     </annotationProcessing>
